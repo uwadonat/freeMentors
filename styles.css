@@ -1,0 +1,63 @@
+
+.head_link
+{    list-style-type: none;
+     display:inline;
+     padding:20px;
+    /* background-color:hotpink;*/
+   
+     
+}
+
+
+.head
+{
+    text-align: center;
+    padding-top: 10px;
+    
+}
+.head_link:hover
+{
+    color:white;
+    font-size: larger;
+    text-decoration: underline;
+}
+#container
+{
+    width: 60%;
+    height:520px;
+    margin-top: 80px;
+    margin-left: 300px;
+    background-color:green;
+    border-radius: 30px;
+}
+#webTitle
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 50px;
+}
+.bodyMain
+{
+    display:inline-block;
+}
+.bLeft
+{
+    width:500px;
+    background-color:mediumaquamarine;
+    text-align: center;
+    margin-left: 20px;
+    height: 300px;
+    border-radius: 20px;
+
+}
+.bRight
+{
+    width:250px;
+    background-color: teal;
+    text-align: center;
+    height: 300px;
+    border-radius: 20px;
+    
+}
+footer{
+    text-align: center;
+}
