@@ -97,7 +97,7 @@ p
 /* style userHomepage*/
 #searchFree
 {
-    font-size: 45px;
+    font-size: 48px;
     color:blue;
     font-style: italic;
     padding-left: 20px;
@@ -119,6 +119,7 @@ p
 .usernav
 {list-style-type: none;
     display:inline;
+    padding:15px;
 }
 .headerLeft
 {
@@ -129,10 +130,11 @@ p
 {
     
     margin-left:800px;
-   
+    margin-top: -55px;
     background-color: cornflowerblue;
+    padding:2.5px;
 }
-.userMain
+.head
 {
-    position:fixed;
+    position:relative;
 }
