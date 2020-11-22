@@ -94,3 +94,45 @@ p
     width:20px;
     height:20px;
 }
+/* style userHomepage*/
+#searchFree
+{
+    font-size: 45px;
+    color:blue;
+    font-style: italic;
+    padding-left: 20px;
+   
+    
+
+}
+#userMain
+{
+    background-color: rgb(250, 244, 244);
+}
+
+#userInputField
+{
+    width:200px;
+    height:30px;
+    
+}
+.usernav
+{list-style-type: none;
+    display:inline;
+}
+.headerLeft
+{
+    background-color: chocolate;
+    width:800px;
+}
+.headerRight
+{
+    
+    margin-left:800px;
+   
+    background-color: cornflowerblue;
+}
+.userMain
+{
+    position:fixed;
+}
