@@ -79,7 +79,7 @@ footer{
 .login_link:hover
 {
     color:white;
-    font-size: larger;
+ 
     text-decoration: underline;
     
 }
@@ -125,6 +125,8 @@ p
 {
     background-color: chocolate;
     width:800px;
+    border-bottom-left-radius:5px ;
+    border-top-left-radius: 5px;
 }
 .headerRight
 {
@@ -133,8 +135,49 @@ p
     margin-top: -55px;
     background-color: cornflowerblue;
     padding:2.5px;
+    border-bottom-right-radius:5px ;
+    border-top-right-radius: 5px;
 }
 .head
 {
     position:relative;
+}
+.bodyImage
+{
+    float:right;
+    width:900px;
+    height:390px;
+    margin-left:20px;
+    border-top-left-radius: 15%;
+    border-bottom-left-radius: 15%;
+}
+.userBody
+{
+    background-color:cornflowerblue;
+    height:390px
+}
+.sessions div
+{
+    display:inline-block;
+    text-align: center;
+
+}
+.session1 
+{
+    background-color: darkcyan;
+    width: 33%;
+    height:auto;
+}
+.session2
+{
+
+    background-color:gold;
+    width: 33%;
+    height:auto;
+}
+.session3
+{
+    background-color:royalblue;
+    width: 33%;
+    height:auto;
 }
