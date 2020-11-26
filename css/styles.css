@@ -181,3 +181,28 @@ p
     width: 33%;
     height:auto;
 }
+input[type=text]:hover,input[type=password]:hover,input[type=text]:focus,input[type=password]:focus,
+{
+    background-color:plum;
+}
+.signupbtn
+{
+    background-color:rgb(22, 22, 194);
+    color:rgb(248, 242, 242);
+    padding:5px ;
+    cursor:pointer;
+    border:none;
+    border-radius:5px;
+}
+.signupbtn:hover
+{
+   opacity:0.5;
+}
+@media screen and (max-width:100px)
+{
+    .signupbtn
+    {
+width:100%;
+    }
+
+}
