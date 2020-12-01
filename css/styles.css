@@ -206,3 +206,13 @@ width:100%;
     }
 
 }
+#mentorshipApplicationMain
+{
+    width: 700px;
+    height:500px;
+    background-color:gray;
+    margin-top: 100px;
+    margin-left:300px;
+    border-radius: 5px;
+    text-align: center;
+}
