@@ -216,3 +216,23 @@ width:100%;
     border-radius: 5px;
     text-align: center;
 }
+#mentorsList
+{
+    width: 700px;
+    height:500px;
+    background-color:gray;
+    margin-top: 100px;
+    margin-left:300px;
+    border-radius: 5px;
+    text-align: center;
+   
+}
+ul.listOfMentors
+{
+    list-style-type: none;
+    font-size: 40px;
+}
+.text
+{
+    font-size:20px;
+}
