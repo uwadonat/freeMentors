@@ -74,7 +74,22 @@ footer{
 .login_link
 {
     text-decoration: none;
+    font-size: 18px;
 
+}
+/*style login link of the indexpage*/
+.login_link1
+{
+    text-decoration: none;
+    font-size: 18px;
+
+}
+.login_link1:hover
+{
+    color:white;
+ 
+    text-decoration: underline;
+    
 }
 .login_link:hover
 {
@@ -134,7 +149,7 @@ p
     margin-left:800px;
     margin-top: -55px;
     background-color: cornflowerblue;
-    padding:2.5px;
+    padding:1px;
     border-bottom-right-radius:5px ;
     border-top-right-radius: 5px;
 }
@@ -205,4 +220,34 @@ input[type=text]:hover,input[type=password]:hover,input[type=text]:focus,input[t
 width:100%;
     }
 
+}
+#mentorshipApplicationMain
+{
+    width: 700px;
+    height:500px;
+    background-color:gray;
+    margin-top: 100px;
+    margin-left:300px;
+    border-radius: 5px;
+    text-align: center;
+}
+#mentorsList
+{
+    width: 700px;
+    height:500px;
+    background-color:gray;
+    margin-top: 100px;
+    margin-left:300px;
+    border-radius: 5px;
+    text-align: center;
+   
+}
+ul.listOfMentors
+{
+    list-style-type: none;
+    font-size: 40px;
+}
+.text
+{
+    font-size:20px;
 }
