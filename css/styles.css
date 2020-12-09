@@ -74,7 +74,22 @@ footer{
 .login_link
 {
     text-decoration: none;
+    font-size: 18px;
 
+}
+/*style login link of the indexpage*/
+.login_link1
+{
+    text-decoration: none;
+    font-size: 18px;
+
+}
+.login_link1:hover
+{
+    color:white;
+ 
+    text-decoration: underline;
+    
 }
 .login_link:hover
 {
@@ -134,7 +149,7 @@ p
     margin-left:800px;
     margin-top: -55px;
     background-color: cornflowerblue;
-    padding:2.5px;
+    padding:1px;
     border-bottom-right-radius:5px ;
     border-top-right-radius: 5px;
 }
